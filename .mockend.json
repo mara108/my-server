@@ -1,6 +1,6 @@
 {
   "Mirror": {
-    "self": "int[]",
-    "others": "int[]"
+    "self": "int",
+    "others": "int"
   }
 }
