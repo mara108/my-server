@@ -1,26 +1,22 @@
 {
-    "calculated orbit": [
-        [
-            8.6,
-            5.2,
-            6.3
-        ],
-        [
-            0.8,
-            0.9,
-            0.6
-        ]
+    "organic": [
+        {
+            "respiration": 3,
+            "growth": 9,
+            "metabolism": 4,
+            "synthesis": 7
+        },
+        {
+            "cleavage": 11,
+            "digestion": 5,
+            "division": 8,
+            "response to stimuli": 1
+        }
     ],
-    "observations": [
-        [
-            6.5,
-            1.3,
-            9.5
-        ],
-        [
-            0.9,
-            0.7,
-            0.8
-        ]
+    "inorganic": [
+        {
+            "assimilation": 12,
+            "dissimilation": 6
+        }
     ]
 }
