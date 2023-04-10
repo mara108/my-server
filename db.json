@@ -1,22 +1,9 @@
 {
-    "organic": [
-        {
-            "respiration": 3,
-            "growth": 9,
-            "metabolism": 4,
-            "synthesis": 7
-        },
-        {
-            "cleavage": 11,
-            "digestion": 5,
-            "division": 8,
-            "response to stimuli": 1
-        }
-    ],
-    "inorganic": [
-        {
-            "assimilation": 12,
-            "dissimilation": 6
-        }
-    ]
+    "Mirxah": {"brightness": 9, "beginning": "2023-04-01 23:14", "end": "2023-04-02 2:58"},
+    "Rita-A": {"brightness": 10, "beginning": "2023-04-01 22:11", "end": "2023-04-01 23:51"},
+    "Booze": {"brightness": 12, "beginning": "2023-04-01 19:14", "end": "2023-04-02 1:00"},
+    "Covertly": {"brightness": 6, "beginning": "2023-04-02 00:00", "end": "2023-04-02 6:15"},
+    "Thunder-13": {"brightness": 5, "beginning": "2023-04-01 20:48", "end": "2023-04-02 1:08"},
+    "Bound": {"brightness": 8, "beginning": "2023-04-02 3:13", "end": "2023-04-02 5:05"},
+    "Zooh": {"brightness": 2, "beginning": "2023-04-01 18:56", "end": "2023-04-02 1:54"}
 }
