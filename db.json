@@ -1,9 +1,8 @@
 {
-    "Mirxah": {"brightness": 9, "beginning": "2023-04-01 23:14", "end": "2023-04-02 2:58"},
-    "Rita-A": {"brightness": 10, "beginning": "2023-04-01 22:11", "end": "2023-04-01 23:51"},
-    "Booze": {"brightness": 12, "beginning": "2023-04-01 19:14", "end": "2023-04-02 1:00"},
-    "Covertly": {"brightness": 6, "beginning": "2023-04-02 00:00", "end": "2023-04-02 6:15"},
-    "Thunder-13": {"brightness": 5, "beginning": "2023-04-01 20:48", "end": "2023-04-02 1:08"},
-    "Bound": {"brightness": 8, "beginning": "2023-04-02 3:13", "end": "2023-04-02 5:05"},
-    "Zooh": {"brightness": 2, "beginning": "2023-04-01 18:56", "end": "2023-04-02 1:54"}
+    "John Blackley": {"specialization": "theorist", "title": "PhD", "date": "2022:06:29"},
+    "Tom Smith": {"specialization": "cosmologist", "title": "Full Doctor", "date": "2023:04:02"},
+    "Yan Mean": {"specialization": "cosmologist", "title": "PhD", "date": "2023:06:13"},
+    "Richard Cook": {"specialization": "observer", "title": "MA", "date": "2020:12:31"},
+    "Samuel Tank": {"specialization": "cosmologist", "title": "PhD", "date": "2021:11:10"},
+    "Rose Brown": {"specialization": "cosmologist", "title": "BA", "date": "2024:01:01"}
 }
